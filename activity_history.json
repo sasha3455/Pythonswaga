@@ -1,0 +1,34 @@
+[
+  {
+    "activity": "Running, 5 mph (12 minute mile)",
+    "calories_per_hour": 355,
+    "duration_minutes": 60,
+    "total_calories": 355,
+    "weight": 98,
+    "date": "2025-04-21 16:13:16",
+    "exercise_info": {
+      "name": "Trail Running/Walking",
+      "type": "cardio",
+      "muscle": "quadriceps",
+      "equipment": "body_only",
+      "difficulty": "intermediate",
+      "instructions": "Running or hiking on trails will get the blood pumping and heart beating almost immediately. Make sure you have good shoes. While you use the muscles in your calves and buttocks to pull yourself up a hill, the knees, joints and ankles absorb the bulk of the pounding coming back down. Take smaller steps as you walk downhill, keep your knees bent to reduce the impact and slow down to avoid falling. A 150 lb person can burn over 200 calories for 30 minutes walking uphill, compared to 175 on a flat surface. If running the trail, a 150 lb person can burn well over 500 calories in 30 minutes."
+    }
+  },
+  {
+    "activity": "Swimming laps, freestyle, fast",
+    "calories_per_hour": 444,
+    "duration_minutes": 45,
+    "total_calories": 333,
+    "weight": 98,
+    "date": "2025-04-23 12:33:32",
+    "exercise_info": {
+      "name": "Swimming",
+      "type": "cardio",
+      "muscle": "chest",
+      "equipment": "body_only",
+      "difficulty": "intermediate",
+      "instructions": "Swimming"
+    }
+  }
+]
